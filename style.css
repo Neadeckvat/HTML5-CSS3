@@ -56,7 +56,7 @@ main .description {
   height: 345px;
   background-image: url(img/bg.jpg);
 }
-main .description h1 {
+main .description h2 {
   color: #445161;
   font-family: "Arial";
   font-size: 30px;
