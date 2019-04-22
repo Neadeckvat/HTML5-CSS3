@@ -79,6 +79,7 @@ header:after {
 }
 .description .video {
   float: right;
+  width: 430px;
 }
 .description .text {
   width: 655px;
